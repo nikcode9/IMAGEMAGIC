@@ -1,11 +1,11 @@
-# Imcrypt-GUI
+# IMAGEMAGIC
 
 ## Overview
 Imcrypt-GUI is a user-friendly desktop application for encrypting and decrypting images. Built using Electron, it offers a graphical user interface (GUI) that simplifies the process of protecting image files with encryption keys.
 
 ## File Structure
 
-Imcrypt - The image Encryptor  
+ImageMagic - The image Encryptor  
 │  
 ├── node_modules (Not pushed to GitHub, will be installed via npm)  
 ├── src  
